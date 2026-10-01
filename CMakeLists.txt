@@ -11,4 +11,4 @@ add_executable(Quiz_3
         MergeSort.cpp
         MergeSort.h
         main.cpp
-        main.h)
+)
